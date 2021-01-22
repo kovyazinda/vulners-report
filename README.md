@@ -16,9 +16,8 @@ import xlsxwriter
 # Example:
  python3 vuln-single-pub.py -i queries.txt -o test.xlsx
  
-# Queries Example (see queries.txt as example):
+# Queries Example:
 
 Sharepoint 2016
-
 Moxa EDS*
 
